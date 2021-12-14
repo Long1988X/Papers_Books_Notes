@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repository mainly records and summarizes the papers related to autonomous driving that I have read;
+This repository mainly records and summarizes the papers and basic knowledge books related to autonomous driving that I have read;
 
 Including papers, codes, notes and other references related to Perception(computer vision), Planning and Control;
 

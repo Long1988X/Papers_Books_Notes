@@ -36,6 +36,9 @@ label version: Annotated papers by myself.
 1. **Optimal paths for a car that goes both forwards and backwards.** - Nov 2 1990
    - author : J . A . Reeds and L . A . Shepp
    - keywords : shortest path, cusps, Dubins, reverse direction.
+2. **A Comprehensive, Step-by-Step Tutorial on Computing Dubin’s Curves** - October 1, 2012
+   * author : Andy Giese
+   * keyword : Car-like robots, Dubin's curve, Forward, Shortest path.
 
 ## 5. Control
 
