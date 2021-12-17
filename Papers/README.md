@@ -40,6 +40,9 @@ label version: Annotated papers by myself.
 6. **ORB-SLAM3 : An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM**  - Apr 23 2021
    * author : Carlos Campos, Richard Elvira, Juan J Gomez rodriguez, Jose M M Montiel, Juan D Tardos
    * keyword : visual, visual-inertial, multi-map, pin-hole, fisheye
+7. **A comparison of loop closing techniques in monocular SLAM** - 2009
+   * author : Brian Willianms, Mark Cummins, Jose Neira, Paul Newman, Ian Reid, Juan Tardos
+   * Loop closing, Monocular SLAM, Submapping
 
 ## 3. Computer Vision
 
