@@ -54,6 +54,12 @@ label version: Annotated papers by myself.
 2. **A Comprehensive, Step-by-Step Tutorial on Computing Dubin’s Curves** - October 1, 2012
    * author : Andy Giese
    * keyword : Car-like robots, Dubin's curve, Forward, Shortest path.
+3. **Convex Decomposition for a Coverage Path Planning for Autonomous Vehicles Interior Extension of Edges** - 25 Sep 2019
+   * author : Lasse Damtoft Nielsen, Inkyung Sung, Peter Nielsen
+   * keywords : convex decomposition, cellular decomposition, dege extension, coverage path planning, aerial surveillance and monitoring
+4. **凹多边形凸分解算法在快速原型中的应用**  -  Feb 2010
+   * author : 朱传敏， 唐珺， 许田贵
+   * keywords : Rapid Prototyping, convave polygon convex decomposition, sub-regional scanning, path planning
 
 ## 5. Control
 
