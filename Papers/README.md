@@ -22,7 +22,7 @@ label version: Annotated papers by myself.
 
 ## 2. SLAM
 
-1. **Visual Odometry Part I : The First 30 Years and Fundamentals.** - Dec 2011 - ==20211214==
+1. **Visual Odometry Part I : The First 30 Years and Fundamentals.** - Dec 2011 - ==20211214==  :star::star:
    * author : David Scarnmuzza and Friedrich Fraundorfer
    * keywords : history review, cam modeling and calibration, motion-estimation pipelines;
 2. **Visual Odometry Part II : Matching, Robustness, Optimization, and Applications. **- Dec 2011
@@ -34,7 +34,7 @@ label version: Annotated papers by myself.
 4. **ORB-SLAM ; A Versatile and Accurate Monocular SLAM System** - Sep 18 2015
    * author : Raul Mur-Artal, Juan D Tardos
    * keywords : Lifelong Mapping, Localization, Monocular Vision, Recognition, SLAM
-5. **ORB-SLAM2 : an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras** - Jun 19 2017
+5. **ORB-SLAM2 : an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras** - Jun 19 2017  :star::star:
    * author : Raul Mur-Artal, Juan D tardos
    * keywords : monocular, stereo, RGB-D, map reuse, loop closing, relocalization
 6. **ORB-SLAM3 : An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM**  - Apr 23 2021
@@ -48,7 +48,7 @@ label version: Annotated papers by myself.
 
 ## 4. Motion Planning
 
-1. **Optimal paths for a car that goes both forwards and backwards.** - Nov 2 1990
+1. **Optimal paths for a car that goes both forwards and backwards.** - Nov 2 1990  :star::star::star:
    - author : J . A . Reeds and L . A . Shepp
    - keywords : shortest path, cusps, Dubins, reverse direction.
 2. **A Comprehensive, Step-by-Step Tutorial on Computing Dubin’s Curves** - October 1, 2012
@@ -57,9 +57,12 @@ label version: Annotated papers by myself.
 3. **Convex Decomposition for a Coverage Path Planning for Autonomous Vehicles Interior Extension of Edges** - 25 Sep 2019
    * author : Lasse Damtoft Nielsen, Inkyung Sung, Peter Nielsen
    * keywords : convex decomposition, cellular decomposition, dege extension, coverage path planning, aerial surveillance and monitoring
-4. **凹多边形凸分解算法在快速原型中的应用**  -  Feb 2010
+4. **凹多边形凸分解算法在快速原型中的应用**  -  Feb 2010 :star::star::star:
    * author : 朱传敏， 唐珺， 许田贵
    * keywords : Rapid Prototyping, convave polygon convex decomposition, sub-regional scanning, path planning
+5. **Coverage of Known Spaces : The Boustrophedon Cellular Decomposition** - 2000  :star::star::star:
+   * author : HOWIE CHOSET
+   * keywords : Coverage, floor coverage, Boustrophedon, Cellular decomposition, Motion Planning
 
 ## 5. Control
 
