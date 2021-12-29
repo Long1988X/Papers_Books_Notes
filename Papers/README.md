@@ -46,6 +46,10 @@ label version: Annotated papers by myself.
 
 ## 3. Computer Vision
 
+1. **Joint Video Stitching and Stabilization From Moving Cameras** - Nov 11 2016
+   * author : HENG GUO, SHUAICHENG LIU, TONG HE, SHUYUAN ZHU
+   * keywords : video stitching, video stabilization, bundled paths, space-temporal optimization
+
 ## 4. Motion Planning
 
 1. **Optimal paths for a car that goes both forwards and backwards.** - Nov 2 1990  :star::star::star:
