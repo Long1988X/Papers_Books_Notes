@@ -58,7 +58,7 @@ label version: Annotated papers by myself.
 4. **Parallax-Robust Surveillance Video Stitching** - Dec 25 2015
    * author : Botao He, Shaohua Yu
    * keywords : Video Stitching, video surveillance, layered warping, parallax
-5. **多路高清 YUV 视频 GPU 实时拼接研究** - Dec 2016
+5. **多路高清 YUV 视频 GPU 实时拼接研究** - Dec 2016  :star::star:
    * author : 王震、许晓航、王静、李圣、郑宏
    * keywords : 视频拼接、YUV颜色模型、透视模型、图像处理器、计算统一设备架构
 
@@ -79,6 +79,15 @@ label version: Annotated papers by myself.
 5. **Coverage of Known Spaces : The Boustrophedon Cellular Decomposition** - 2000  :star::star::star:
    * author : HOWIE CHOSET
    * keywords : Coverage, floor coverage, Boustrophedon, Cellular decomposition, Motion Planning
+6. **Practical Search Techniques in Path Planning for Autonomous Driving** - 2010
+   * author : **Dmitri Dolgov**, Sebastian Thrun, Micheal Montemerlo, James Diebel
+   * keywords : unkown environment, smooth path, 3D kinematic, Hybrid A Star
+7. **Path Planning for Autonomous Vehicles in Unknown Semi-structured Environments** - Jan 25 2010
+   * author : **Dmitri Dolgov**, Sebastian Thrun, Micheal Montemerlo, James Diebel
+   * keywords : A Star, 3D kinematic state space, numeric non-linear optimization, 50-300ms
+8. **Path Planning in Unstructured Environments: A Real-time Hybrid A* Implementation** - Dec 2016
+   * author : **Karl Kurzer**
+   * keywords : **Hybrid A Star**, Obstacles, **Optimal path
 
 ## 5. Control
 
