@@ -49,21 +49,47 @@ label version: Annotated papers by myself.
 1. **Joint Video Stitching and Stabilization From Moving Cameras** - Nov 11 2016
    * author : HENG GUO, SHUAICHENG LIU, TONG HE, SHUYUAN ZHU
    * keywords : video stitching, video stabilization, bundled paths, space-temporal optimization
+   
 2. **Real-Time Video Stitching Using Camera Path Estimation and Homography Refinement**  Dec 26 2017
    * author : Jaeyong Yoon, Daeho Lee
    * keywords : image stitching, video stitching, camera path estimation, optical flow
+   
 3. **Automatic Panoramic Image Stitching using Invariant Features** - 
    * author : Matthew Brown, David G.Lowe
    * keywords : Auto Stitch
+   
 4. **Parallax-Robust Surveillance Video Stitching** - Dec 25 2015
    * author : Botao He, Shaohua Yu
    * keywords : Video Stitching, video surveillance, layered warping, parallax
+   
 5. **多路高清 YUV 视频 GPU 实时拼接研究** - Dec 2016  :star::star:
    * author : 王震、许晓航、王静、李圣、郑宏
    * keywords : 视频拼接、YUV颜色模型、透视模型、图像处理器、计算统一设备架构
+   
 6. **Embedded real-time stereo estimation via Semi-Global Matching on the GPU** - 2016
+
    * author : Hernandez-Juarez, Chacon, Espinosa
-   * keywords : stereo, semi-global matching, CUDA, GPU, Autonomous Driving
+   * keywords : stereo, semi-global matching, **CUDA**, GPU, Autonomous Driving
+
+7. **Stereo Processing by Semiglobal Matching and Mutual Information** - 2007
+
+   * author : Heiko Hirschmuller
+   * keywords : stereo, mutual information, global optimization, multi-baseline
+
+8. **On building an accurate stereo matching system on graphics hardware** - Nov 2011
+
+   * author : Xing Mei, Xun Sun, Mingcai Zhou, Shaohui Jiao, Haitao Wang
+   * keywords : **GPU-based**, stereo match, AD-Census, accuracy and speed
+
+9. **PatchMatch Stereo - Stereo Matching with Slanted Support Windows** - 2011
+
+   * author : Michael Bleyer, Christoph Rhemann, Carsten Rother
+   * keywords : Patch-Match
+
+10. ##### `A compact algorithm for rectification of stereo pairs` - 2 Mar 2000
+
+    * author : Andrea Fusiello, Emanuele Trucco, Alessandro Verri
+    * keyword : Rectification, stereo, Epipolar geometry
 
 ## 4. Motion Planning
 
