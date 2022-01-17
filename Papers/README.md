@@ -61,6 +61,9 @@ label version: Annotated papers by myself.
 5. **多路高清 YUV 视频 GPU 实时拼接研究** - Dec 2016  :star::star:
    * author : 王震、许晓航、王静、李圣、郑宏
    * keywords : 视频拼接、YUV颜色模型、透视模型、图像处理器、计算统一设备架构
+6. **Embedded real-time stereo estimation via Semi-Global Matching on the GPU** - 2016
+   * author : Hernandez-Juarez, Chacon, Espinosa
+   * keywords : stereo, semi-global matching, CUDA, GPU, Autonomous Driving
 
 ## 4. Motion Planning
 
