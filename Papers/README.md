@@ -86,10 +86,15 @@ label version: Annotated papers by myself.
    * author : Michael Bleyer, Christoph Rhemann, Carsten Rother
    * keywords : Patch-Match
 
-10. ##### `A compact algorithm for rectification of stereo pairs` - 2 Mar 2000
+10. ##### `A compact algorithm for rectification of stereo pairs` - 2 Mar 2000 :star::star::star:
 
     * author : Andrea Fusiello, Emanuele Trucco, Alessandro Verri
     * keyword : Rectification, stereo, Epipolar geometry
+    
+11. **Consistent Video Depth Estimati** - Aug 22 2020
+
+    * author : XUAN LUO, JIA-BIN HUANG, RICHARD SZELISKI, KEVIN MATZEN, JOHANNES KOPF
+    * keywords : video, depth estimation
 
 ## 4. Motion Planning
 
@@ -120,3 +125,8 @@ label version: Annotated papers by myself.
 
 ## 5. Control
 
+## 6. Others
+
+1. **How to Read Papers** - 3 July 2007
+   * author : S. Keshav
+   * keywords : Paper, Reading, Hints
