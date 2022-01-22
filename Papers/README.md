@@ -95,6 +95,16 @@ label version: Annotated papers by myself.
 
     * author : XUAN LUO, JIA-BIN HUANG, RICHARD SZELISKI, KEVIN MATZEN, JOHANNES KOPF
     * keywords : video, depth estimation
+    
+12. **A Flexible New Technique for Camera Calibration** - 2 Nov 2000
+
+    * author : Zhengyou Zhang
+    * keyword : Camera Calibration, flexible plane-based calibration, projective mapping
+
+13. **Evaluation of different distortion correction methods and interpolation techniques for an automated classification of celiac disease** - 2 July 2013
+
+    * author : M.Gadermayr, M.Liedlgruber, A.Uhl, A.Vecsei
+    * keywords : Distortion correction, Endoscopy, Celiac disease
 
 ## 4. Motion Planning
 
