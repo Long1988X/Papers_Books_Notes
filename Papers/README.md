@@ -105,6 +105,16 @@ label version: Annotated papers by myself.
 
     * author : M.Gadermayr, M.Liedlgruber, A.Uhl, A.Vecsei
     * keywords : Distortion correction, Endoscopy, Celiac disease
+    
+14. **Intel R© RealSenseTM Stereoscopic Depth Cameras** - 2017
+
+    * author : Leonid Keselman John Iselin Woodfill Anders Grunnet-Jepsen Achintya Bhowmik
+    * keywords : Intel RealSense D400
+    
+15. **基于逆向投影的全景泊车系统设计与实现** - 21 Nov 2016
+
+    * author: 赵三峰、谢明、陈玉明
+    * keywords: around view parking, reverse projection
 
 ## 4. Motion Planning
 
