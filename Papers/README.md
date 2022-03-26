@@ -115,6 +115,28 @@ label version: Annotated papers by myself.
 
     * author: 赵三峰、谢明、陈玉明
     * keywords: around view parking, reverse projection
+    
+16. **CSE/EE486 Computer Vision I Introduction to Computer Vision** 
+
+    * Lecture 07 Correspondence Matching
+    * Lecture 08 Introduction to Stereo
+    * Lecture 09 Stereo Algorithms
+    * author : CSE Department, Penn State University    Instructor: Robert Collins 		
+
+17. **Symmetric Stereo Matching for Occlusion Handling** - 2005
+
+    * author : Jian Sun1 Yin Li1 Sing Bing Kang2 Heung-Yeung Shum1
+    * keywords :  symmetric stereo model, occlusion
+    
+18. **Road Area Extraction Based on Vanishing Point Detection and Texture Orientation Estimation** - Mar 2013
+
+    * author : Bui Trung Hieu
+    * keywords : vanish point
+
+19. **Real-time Detection, Tracking, and Classification of Moving and Stationary Objects using Multiple Fisheye Images** - Aug 2018
+
+    * author : Iljoo Baek∗, Albert Davies∗, Geng Yan, and Ragunathan (Raj) Rajkumar
+    * keywords : fisheye, real-time
 
 ## 4. Motion Planning
 
@@ -142,8 +164,22 @@ label version: Annotated papers by myself.
 8. **Path Planning in Unstructured Environments: A Real-time Hybrid A* Implementation** - Dec 2016
    * author : **Karl Kurzer**
    * keywords : **Hybrid A Star**, Obstacles, **Optimal path
+9.  **Discrete dubins paths** - 2012
+   * author: Sylvester Eriksson-Bique∗ David Kirkpatrick† Valentin Polishchuk‡
+   * keywords: Dubins path,  polygonal path, “discrete” proof of Dubins result
+10. **Classification of the Dubins set** - 13 Nov 2000
+    * author: Andrei M. Shkel, Vladimir Lumelsky 
+    * keywords: Computational geometry; Geometric algorithms; Shortest path problems; Robotics; Nonholonomic motion
 
 ## 5. Control
+
+
+
+## 6. Tools
+
+1. **A Universal Grid Map Library Implementation and Use Case for Rough Terrain Navigation** - Jan 2016
+   * author: Péter Fankhauser, Marco Hutter
+   * keywords: ROS, Grid map, Elevation mapping
 
 ## 6. Others
 
