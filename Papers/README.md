@@ -137,6 +137,11 @@ label version: Annotated papers by myself.
 
     * author : Iljoo Baek∗, Albert Davies∗, Geng Yan, and Ragunathan (Raj) Rajkumar
     * keywords : fisheye, real-time
+    
+20. **Local Gabor Dominant Direction Pattern for Face Recognition** - Jan 2009
+
+    * author : Vitomir ŠTRUC, Nikola PAVEŠI  ́C
+    * keywords : Gabor features, face recognition
 
 ## 4. Motion Planning
 
