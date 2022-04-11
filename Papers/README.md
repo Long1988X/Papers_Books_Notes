@@ -42,7 +42,10 @@ label version: Annotated papers by myself.
    * keyword : visual, visual-inertial, multi-map, pin-hole, fisheye
 7. **A comparison of loop closing techniques in monocular SLAM** - 2009
    * author : Brian Willianms, Mark Cummins, Jose Neira, Paul Newman, Ian Reid, Juan Tardos
-   * Loop closing, Monocular SLAM, Submapping
+   * keywords : Loop closing, Monocular SLAM, Submapping
+8. **OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-baseline Multi-camera Systems** 18 Mar 2020
+   * author : Changhee Won, Hochang Seok, Zhaopeng Cui, Marc Pollefeys, and Jongwoo Lim
+   * keywords : depth estimate, SLAM, fisheye camera
 
 ## 3. Computer Vision
 
