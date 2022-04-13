@@ -145,6 +145,11 @@ label version: Annotated papers by myself.
 
     * author : Vitomir ŠTRUC, Nikola PAVEŠI  ́C
     * keywords : Gabor features, face recognition
+    
+21. **Automatic Calibration of an Around View MonitorSystem Exploiting Lane Markings** Sep 2018
+
+    * author : Kyoungtaek Choi , Ho Gi Jung, Jae Kyu Suhr
+    * keywords : automatic calibration, lane marking, ADAS
 
 ## 4. Motion Planning
 
